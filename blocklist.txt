@@ -1,0 +1,14 @@
+# Custom blocklist
+
+
+# Dunno what this is.
+127.0.0.1 localhost
+::1 localhost
+
+
+# [Malwarebytes]
+127.0.0.1 telemetry.malwarebytes.com
+127.0.0.1 keystone.mwbsys.com
+127.0.0.1 malwarebytes.invisionmanaged.net
+127.0.0.1 sirius.mwbsys.com
+127.0.0.1 hubble.mb-cosmos.com
