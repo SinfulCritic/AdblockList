@@ -12,3 +12,7 @@
 127.0.0.1 malwarebytes.invisionmanaged.net
 127.0.0.1 sirius.mwbsys.com
 127.0.0.1 hubble.mb-cosmos.com
+
+# [SmartTV]
+127.0.0.1 ads.samsung.com
+127.0.0.1 samsungads.com
