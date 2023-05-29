@@ -16,3 +16,7 @@
 # [SmartTV]
 127.0.0.1 ads.samsung.com
 127.0.0.1 samsungads.com
+
+# [Wiz Smartlight]
+127.0.0.1 ntp.wiz.world
+127.0.0.1	eu.mqtt.wiz.world
