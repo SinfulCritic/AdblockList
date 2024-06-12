@@ -13,10 +13,18 @@
 127.0.0.1 sirius.mwbsys.com
 127.0.0.1 hubble.mb-cosmos.com
 
-# [SmartTV]
-127.0.0.1 ads.samsung.com
-127.0.0.1 samsungads.com
-
 # [Wiz Smartlight]
 127.0.0.1 ntp.wiz.world
 127.0.0.1	eu.mqtt.wiz.world
+
+# [Samsung]
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 insights.samsung.com
+127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
+127.0.0.1 ads.samsung.com
+127.0.0.1 samsungads.com
+
+# [Sonos]
+127.0.0.1 msmetrics.ws.sonos.com
+127.0.0.1 msmetrics-test.ws.sonos.com
