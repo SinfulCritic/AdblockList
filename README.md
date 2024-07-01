@@ -1,3 +1,3 @@
 # AdblockList
 
-Personal additions to network wide adblocker (Pi-Hole).
+Personal additions to network wide adblocker.
