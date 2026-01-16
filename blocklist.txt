@@ -15,7 +15,7 @@
 
 # [Wiz Smartlight]
 127.0.0.1 ntp.wiz.world
-127.0.0.1	eu.mqtt.wiz.world
+127.0.0.1 eu.mqtt.wiz.world
 
 # [Samsung]
 127.0.0.1 nmetrics.samsung.com
